@@ -33,8 +33,8 @@ print(len(txt))
 
 - Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku [] dan deklarasi nomor dalam kurung siku dengan urutan ARRAY dan menggunakan titik dua lalu masukkan nomor ARRAY selanjutnya. Untuk mengambil karakter terakhir,gunakan index [-1]. Sedangkan untuk mengambil karakter index ke-2 sampai ke-4, gunakan index [2:5].
 
-# Mengambil karakter terakhir
-print(txt[-1])
-# Mengambil karakter index ke-2 sampai index ke-4 (llo)
-print(txt[2:5])
+    # Mengambil karakter terakhir
+    print(txt[-1])
+    # Mengambil karakter index ke-2 sampai index ke-4 (llo)
+    print(txt[2:5])
 
