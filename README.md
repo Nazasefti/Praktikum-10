@@ -52,4 +52,31 @@
         # Mengubah text menjadi huruf kecil
         print(txt.lower())
 
--
+- Untuk mengganti karakter 'H' dengan karakter 'J', gunakan method replace().
+
+        # Mengganti karakter H dengan karakter J
+        print(txt.replace("H", "J"))
+        print()
+
+# Output Latihan 1
+
+![image](https://user-images.githubusercontent.com/115772516/212958794-4e686903-bd5d-476c-85e8-a0689404094f.png)
+
+# Latihan 2
+
+![lat 2](https://user-images.githubusercontent.com/115772516/212959009-1e55b0eb-05d0-48e3-b226-569d69ee7de5.jpeg)
+
+# Penjelasan Latihan 2
+
+- Untuk memasukkan variabel ke dalam string, tambahkan kurung kurawal {} untuk menempatkan variabel sebelumnya.
+
+        umur = 19
+        txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n"
+
+        print(txt.format(umur))
+
+# Output Latihan 2
+
+![image](https://user-images.githubusercontent.com/115772516/212959795-9917e404-cc62-4ccc-95a5-d69177348d85.png)
+
+# Selesai
